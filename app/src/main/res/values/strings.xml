@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">first layout</string>
+    <string name="colored_text">
+        <font color="#67d7b0">2</font><font color="#0b1c1a">/3</font>\t\t\t<font color="#67d7b0">3</font><font color="#0b1c1a">/5</font>
+    </string>
+    <string name="habit">
+        <font color="#0b1c1a">Wednesday habit</font>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<font color="#b4b4b4">See all</font>
+    </string>
+</resources>
+
+
